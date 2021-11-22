@@ -1,0 +1,46 @@
+{
+    "pembayaran": [
+        {
+            "idBayar": 1,
+            "idPesanan": 1,
+            "status": "Unpaid",
+            "pajak": 3200,
+            "metodePembayaran": "Cash"
+        },
+        {
+            "idBayar": 2,
+            "idPesanan": 2,
+            "status": "Paid",
+            "pajak": 2600,
+            "metodePembayaran": "E-Wallet: DANA"
+        },
+        {
+            "idBayar": 3,
+            "idPesanan": 3,
+            "status": "Paid",
+            "pajak": 3700,
+            "metodePembayaran": "E-Wallet: GoPay"
+        },
+        {
+            "idBayar": 4,
+            "idPesanan": 4,
+            "status": "Unpaid",
+            "pajak": 3400,
+            "metodePembayaran": "Cash"
+        },
+        {
+            "idBayar": 5,
+            "idPesanan": 5,
+            "status": "Unpaid",
+            "pajak": 2800,
+            "metodePembayaran": "Cash"
+        },
+        {
+            "idBayar": 6,
+            "idPesanan": 6,
+            "status": "Paid",
+            "pajak": 4000,
+            "metodePembayaran": "E-Wallet: OVO"
+        }
+    ]
+}
